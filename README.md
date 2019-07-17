@@ -6,6 +6,8 @@
 3. python -m venv env  
 4. To active: mypthon\Scripts\activate (Mac/Linux: "source mypython/bin/activate")  
 5. (optional) pip install virtualenvwrapper-win
+6. (optional) mkvirtualenv myproject
+7. (optional) workon myproject
 
 ### Install Django
 1. pip install Django
