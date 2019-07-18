@@ -9,12 +9,19 @@
 6. (optional) mkvirtualenv myproject
 7. (optional) workon myproject
 
-### Install Django
-1. pip install Django
+### Install Django   
+1. pip install Django   
 
-### Create Django project
-1. cd <project folder>
-2. django-admin startproject mysite
+### Install LDAP module   
+1. pip install django-auth-ldap   
+
+### Create Django project   
+1. cd <project folder>   
+2. django-admin startproject mysite   
   
-### Start Django test server
-1. python manage.py runserver
+### Start Django test server   
+1. python manage.py runserver   
+
+### Reference   
+1. LDAP https://technowhisp.com/django-access-control-using-ldap/   
+
