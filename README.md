@@ -24,4 +24,5 @@
 
 ### Reference   
 1. LDAP https://technowhisp.com/django-access-control-using-ldap/   
+2. https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
 
