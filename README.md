@@ -26,4 +26,4 @@
 1. LDAP https://technowhisp.com/django-access-control-using-ldap/   
 2. https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
 3. https://www.dev2qa.com/django-custom-login-page-use-login_required-decorator/
-
+4. https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67
