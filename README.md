@@ -25,6 +25,9 @@
 ### git
 1. if we don't check in the file, put it in .gitignore
 
+### left over
+https://docs.djangoproject.com/en/2.2/topics/http/urls/#naming-url-patterns
+
 ### Reference   
 1. LDAP https://technowhisp.com/django-access-control-using-ldap/   
 2. https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
