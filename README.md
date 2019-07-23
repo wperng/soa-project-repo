@@ -22,6 +22,9 @@
 ### Start Django test server   
 1. python manage.py runserver   
 
+### git
+1. if we don't check in the file, put it in .gitignore
+
 ### Reference   
 1. LDAP https://technowhisp.com/django-access-control-using-ldap/   
 2. https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
