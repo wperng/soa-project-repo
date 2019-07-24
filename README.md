@@ -13,7 +13,7 @@
 1. pip install Django   
 
 ### Install LDAP module   
-1. pip install django-auth-ldap   
+1. django-python3-ldap (django-auth-ldap is not good as it is pure python solution)
 
 ### Create Django project   
 1. cd <project folder>   
