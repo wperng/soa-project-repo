@@ -1,2 +1,5 @@
 # Ingore virtual environment file
 env
+
+#k Ingore pyc file
+*.pyc
