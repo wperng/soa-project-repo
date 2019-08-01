@@ -19,6 +19,11 @@
 1. cd <project folder>   
 2. django-admin startproject mysite   
   
+### Modal creation
+1. python manage.py makemigrations polls (Generate Script file)
+2. python manage.py sqlmigrate polls 0001 (Generate SQL Command)
+3. python manage.py migrate (create scheam in database)
+  
 ### Start Django test server   
 1. python manage.py runserver   
 
