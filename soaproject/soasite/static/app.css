@@ -1,0 +1,15 @@
+body {
+	font-family: inherit;
+}
+
+.navbar-brand {
+	font-size: 25px;
+}
+
+.nav-link {
+	color: white;
+}
+
+.login-button {
+	margin-left: 50px;
+}
