@@ -15,9 +15,10 @@
 ### Install LDAP module   
 1. django-python3-ldap (django-auth-ldap is not good as it is pure python solution)
 
-### Create Django project   
+### Create Django project & application
 1. cd <project folder>   
-2. django-admin startproject mysite
+2. django-admin startproject mysite ("django-admin startproject myproj ." will create in the current directory)   
+3. python manage.py startapp polls
   
 ### Create Super user
 1. python manage.py createsuperuser
@@ -41,3 +42,4 @@ https://docs.djangoproject.com/en/2.2/topics/http/urls/#naming-url-patterns
 2. https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
 3. https://www.dev2qa.com/django-custom-login-page-use-login_required-decorator/
 4. https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67
+5. https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/content/django_models/README.html (Chinese)
