@@ -17,7 +17,10 @@
 
 ### Create Django project   
 1. cd <project folder>   
-2. django-admin startproject mysite   
+2. django-admin startproject mysite
+  
+### Create Super user
+1. python manage.py createsuperuser
   
 ### Modal creation
 1. python manage.py makemigrations polls (Generate Script file)
