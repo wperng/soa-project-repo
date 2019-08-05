@@ -31,6 +31,11 @@
 ### Start Django test server   
 1. python manage.py runserver   
 
+### Deployment
+1. pip install -r requirements.txt
+2. pip freeze > requirements.txt
+3. pip show <packagename>
+
 ### git
 1. if we don't check in the file, put it in .gitignore
 
