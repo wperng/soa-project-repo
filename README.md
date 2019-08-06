@@ -45,6 +45,7 @@ https://docs.djangoproject.com/en/2.2/topics/http/urls/#naming-url-patterns
 ### Reference   
 Topic | URL
 --- | ---
+general | http://book.pythontips.com/en/latest/args_and_kwargs.html
 LDAP | https://technowhisp.com/django-access-control-using-ldap/   
 LDAP | https://coderbook.com/@marcus/how-to-add-ldap-and-active-directory-authentication-to-django/
 LDAP | https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/   
