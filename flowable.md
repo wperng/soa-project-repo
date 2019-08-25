@@ -10,3 +10,4 @@ local IDM URL | http://localhost:8080/flowable-idm
 local task URL | http://localhost:8080/flowable-task
 local modeler URL | http://localhost:8080/flowable-modeler
 local rest URL | http://localhost:8080/flowable-rest
+example | https://forum.flowable.org/t/how-can-i-use-http-task-respone-status-at-next-process-node/1816/7
