@@ -17,3 +17,4 @@ multiple step form | https://www.w3schools.com/howto/howto_js_form_steps.asp
 form example | http://www.jquery-steps.com/Examples#advanced-form
 Tomcat LDAP | http://www.gattis.org/Work-and-Tech/operating-systems-and-applications/active-directory/active-directory-interfaces-and-specifications/active-directory-interfaces-and-features/active-directory-code-samples/how-to-connect-tomcat-to-ad-for-authentication-and-authorization-for-development
 Servlet Security | https://examples.javacodegeeks.com/enterprise-java/servlet/java-servlet-security-example/
+LdapJdbcRealm | https://stackoverflow.com/questions/1138450/implement-a-tomcat-realm-with-ldap-authentication-and-jdbc-authorization
