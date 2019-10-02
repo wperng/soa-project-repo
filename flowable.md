@@ -18,4 +18,5 @@ form example | http://www.jquery-steps.com/Examples#advanced-form
 Tomcat LDAP | http://www.gattis.org/Work-and-Tech/operating-systems-and-applications/active-directory/active-directory-interfaces-and-specifications/active-directory-interfaces-and-features/active-directory-code-samples/how-to-connect-tomcat-to-ad-for-authentication-and-authorization-for-development
 Servlet Security | https://examples.javacodegeeks.com/enterprise-java/servlet/java-servlet-security-example/
 LdapJdbcRealm | https://stackoverflow.com/questions/1138450/implement-a-tomcat-realm-with-ldap-authentication-and-jdbc-authorization
+weblogic ldapjdbcrealm | https://blogs.perficient.com/2018/10/03/obiee-12c-security-ldap-authentication-and-db-authorization/
 Flowable Chinese | http://www.manongjc.com/article/79132.html
