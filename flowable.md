@@ -20,4 +20,4 @@ Servlet Security | https://examples.javacodegeeks.com/enterprise-java/servlet/ja
 LdapJdbcRealm | https://stackoverflow.com/questions/1138450/implement-a-tomcat-realm-with-ldap-authentication-and-jdbc-authorization
 weblogic ldapjdbcrealm | https://blogs.perficient.com/2018/10/03/obiee-12c-security-ldap-authentication-and-db-authorization/
 Flowable Chinese | http://www.manongjc.com/article/79132.html
-SpringBoot
+SpringBoot | https://www.mkyong.com/tutorials/spring-boot-tutorials/
