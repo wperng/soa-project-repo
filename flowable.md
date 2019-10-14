@@ -21,3 +21,5 @@ LdapJdbcRealm | https://stackoverflow.com/questions/1138450/implement-a-tomcat-r
 weblogic ldapjdbcrealm | https://blogs.perficient.com/2018/10/03/obiee-12c-security-ldap-authentication-and-db-authorization/
 Flowable Chinese | http://www.manongjc.com/article/79132.html
 SpringBoot | https://www.mkyong.com/tutorials/spring-boot-tutorials/
+spring security LDAP & database |https://stackoverflow.com/questions/9228932/spring-security-3-active-directory-authentication-database-authorization
+sprint security in general | https://stackoverflow.com/questions/21555280/how-to-use-spring-ldap-authentication
