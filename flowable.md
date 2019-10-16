@@ -24,3 +24,4 @@ SpringBoot | https://www.mkyong.com/tutorials/spring-boot-tutorials/
 spring security LDAP & database |https://stackoverflow.com/questions/9228932/spring-security-3-active-directory-authentication-database-authorization
 sprint security in general | https://stackoverflow.com/questions/21555280/how-to-use-spring-ldap-authentication
 spring security ldap & database | https://blog.csdn.net/littlebrain4solving/article/details/76213310
+spring security database |http://javawebtutor.com/articles/spring/spring-security-database-authentication.php
