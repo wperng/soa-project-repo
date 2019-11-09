@@ -21,4 +21,5 @@ Material UI | https://material-ui.com
      * TENANT DOMAIN: dev-william.auth0.com   
      * App name: MyFirstAuth0App
      * Client ID: pt1y4xhB5TSfyEzXIFQIWITU35gGx21R
+2. auth dashboard URL: https://manage.auth0.com/dashboard/us/dev-william/ 
 
