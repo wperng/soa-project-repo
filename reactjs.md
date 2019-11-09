@@ -3,17 +3,19 @@
 ### Bookmark
 Name | URL  
 --- | ---
+Basic knowledge | https://www.w3schools.com/react/default.asp
 ReactJS 101 | https://www.bookstack.cn/read/reactjs101-zh-tw/README.md
 Basic Auth | https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
 Auth0 Example | https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b
 Material UI | https://material-ui.com
 
 ### Create a ReactJS project
-1. npm install -g create-react-app (install "create-react-app" module,  one time per server, -g means global)
-2. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
-3. cd myfirstreact 
-4. npm start
-5. home page shows up at http://localhost:3000/
+1. Install Node.js from https://nodejs.org/en/download/ (one time task per server)
+2. npm install -g create-react-app (install "create-react-app" module,  one time per server, -g means global)
+3. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
+4. cd myfirstreact 
+5. npm start
+6. home page shows up at http://localhost:3000/
 
 ### Auth0 authentication
 1. Registeration Information:    
