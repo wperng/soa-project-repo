@@ -10,6 +10,8 @@ Auth0 Example | https://medium.appbase.io/how-to-implement-authentication-for-yo
 Material UI | https://material-ui.com
 Material Video | https://www.youtube.com/watch?v=xm4LX5fJKZ8&t=329s
 Online Editor | https://codesandbox.io/
+Cluster | ???
+SSR (Server Side Reandering) | https://nextjs.org/
 
 
 ### Create a ReactJS project
