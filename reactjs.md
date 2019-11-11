@@ -25,6 +25,7 @@ SSR (Server Side Reandering) | https://nextjs.org/
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
 2. There is no need to use .jsx as file extension, js is fine.
+3. Function in javascript is the first method of class, so reference to function is actually a reference to object.
 
 ### Auth0 authentication
 1. Registeration Information:    
