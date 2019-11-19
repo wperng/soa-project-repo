@@ -13,6 +13,8 @@ Material Video | https://www.youtube.com/watch?v=xm4LX5fJKZ8&t=329s
 Online Editor | https://codesandbox.io/
 Cluster | ???
 SSR (Server Side Reandering) | https://nextjs.org/
+build and deployment | https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/
+public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
 
 ### Create a ReactJS project
 1. Install Node.js from https://nodejs.org/en/download/ (one time task per server)
