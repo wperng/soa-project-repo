@@ -23,6 +23,8 @@ public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-an
 4. cd myfirstreact 
 5. npm start
 6. home page shows up at http://localhost:3000/
+7. npm install -g serve
+8. serve -s build -l 4000
 
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
