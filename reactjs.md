@@ -26,6 +26,11 @@ public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-an
 7. npm install -g serve
 8. serve -s build -l 4000
 
+### Deploy to Apache
+1. npm run build
+2. create .htaccess file with proper content in pubic folder
+3. https://create-react-app.dev/docs/deployment/#!
+
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
 2. There is no need to use .jsx as file extension, js is fine.
