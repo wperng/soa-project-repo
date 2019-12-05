@@ -28,8 +28,9 @@ public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-an
 
 ### Deploy to Apache
 1. npm run build
-2. create .htaccess file with proper content in pubic folder
-3. https://create-react-app.dev/docs/deployment/#!
+2. [App in root] https://create-react-app.dev/docs/deployment/#!
+3. [App in subfolder] https://skryvets.com/blog/2018/09/20/an-elegant-solution-of-deploying-react-app-into-a-subdirectory/   
+        --- Just need add "homepage": "/subdir/" to "package.json"
 
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
