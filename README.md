@@ -3,8 +3,9 @@
 ### Setup Virtual Environment  
 1. pip install virtualenv  
 2. python -m pip install --upgrade pip  
+3. cd mypython
 3. python -m venv env  
-4. To active: mypthon\Scripts\activate (Mac/Linux: "source mypython/bin/activate")  
+4. To active: mypython\Scripts\activate (Mac/Linux: "source mypython/bin/activate")  
 5. (optional) pip install virtualenvwrapper-win
 6. (optional) mkvirtualenv myproject
 7. (optional) workon myproject
